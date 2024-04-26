@@ -16,3 +16,5 @@
   1. First Item
 2. Second Item
 3. Third Item
+
+![An image of ACG](https://imgur.com/y0GAKxk)
