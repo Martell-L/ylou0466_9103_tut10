@@ -19,5 +19,6 @@
 
 ![An image of ACG](https://imgur.com/y0GAKxk)
 
-@import "E:\USYD\Creative Coding\Week9\ylou0466_9103_tut10\Tsukihime.png"
+![An image of the Mona Lisa](assets/Tsukihime.png)
+
 
