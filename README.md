@@ -19,5 +19,5 @@
 
 ![An image of ACG](https://imgur.com/y0GAKxk)
 
-![image](E:\USYD\Creative Coding\Week9\ylou0466_9103_tut10\Tsukihime.png)
+@import "E:\USYD\Creative Coding\Week9\ylou0466_9103_tut10\Tsukihime.png"
 
