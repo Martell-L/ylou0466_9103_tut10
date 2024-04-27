@@ -14,12 +14,14 @@ My project aims to incorporate Pixel Art as an imaging technique, inspired by th
 I intend to use **Pixel Painter** to achieve this effect.
 
 - **Pixel Painter**: It converts an image into a digital painting. Every frame, it selects a random pixel from the original image and draws a dot with that pixel’s color, as described.
+
 ![An image of Painter](assets/pixel-painter.gif)
 ![An image of Code](assets/code1.png)
   
 Additionally, **Image Palette** will be extremely useful.
 
 - **Image Palette**: This sketch modifies the colors in an image to match a selected palette. With this code, I can change the scene's colors to simulate different times of the day, such as transitions from sunrise to sunset or from day to night.
+
 ![An image of Palette](assets/Palette.gif)
 ![An image of Code](assets/code2.png)
 
