@@ -1,5 +1,5 @@
 # ylou0466_9103_tut10
-
+# Week 8 Quiz
 ## Part 1: Imaging Technique Inspiration
 
 My project aims to incorporate Pixel Art as an imaging technique, inspired by the platformer game *Celeste*. This game features exquisitely crafted pixel art, with perfectly balanced color usage and lighting effects that create a visually stunning and layered appearance.
