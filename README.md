@@ -17,7 +17,8 @@ I intend to use **Pixel Painter** to achieve this effect.
 
 ![An image of Painter](assets/pixel-painter.gif)
 ![An image of Code](assets/code1.png)
-[Link Text](https://happycoding.io/tutorials/p5js/images/pixel-painter)
+
+[Pixel Painter Implementation](https://happycoding.io/tutorials/p5js/images/pixel-painter)
 
   
 Additionally, **Image Palette** will be extremely useful.
@@ -26,6 +27,7 @@ Additionally, **Image Palette** will be extremely useful.
 
 ![An image of Palette](assets/Palette.gif)
 ![An image of Code](assets/code2.png)
-[Link Text](https://happycoding.io/tutorials/p5js/images/image-palette)
+
+[Image Palette Implementation](https://happycoding.io/tutorials/p5js/images/image-palette)
 
 
